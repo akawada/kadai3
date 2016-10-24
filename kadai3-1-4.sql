@@ -1,0 +1,4 @@
+﻿SELECT *
+FROM BOOK
+WHERE id = 'B001'
+;

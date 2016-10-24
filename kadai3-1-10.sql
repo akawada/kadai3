@@ -1,0 +1,3 @@
+﻿DELETE FROM book
+WHERE id = 'B001'
+;
